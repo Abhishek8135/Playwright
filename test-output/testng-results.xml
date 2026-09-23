@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-23T09:58:21 IST" name="Default Suite" finished-at="2026-09-23T09:58:41 IST" duration-ms="20104">
+    <groups>
+    </groups>
+    <test started-at="2026-09-23T09:58:21 IST" name="Playwright" finished-at="2026-09-23T09:58:41 IST" duration-ms="20104">
+      <class name="iFrameDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:21 IST" name="setUp" finished-at="2026-09-23T09:58:27 IST" duration-ms="5775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFrame1()[pri:1, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:27 IST" name="testFrame1" finished-at="2026-09-23T09:58:27 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrame1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:27 IST" name="tearDown" finished-at="2026-09-23T09:58:30 IST" duration-ms="2329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:30 IST" name="setUp" finished-at="2026-09-23T09:58:31 IST" duration-ms="1160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFrame2()[pri:2, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:31 IST" name="testFrame2" finished-at="2026-09-23T09:58:31 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrame2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:31 IST" name="tearDown" finished-at="2026-09-23T09:58:33 IST" duration-ms="1748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:33 IST" name="setUp" finished-at="2026-09-23T09:58:34 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFrame3()[pri:3, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:34 IST" name="testFrame3" finished-at="2026-09-23T09:58:34 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrame3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:34 IST" name="tearDown" finished-at="2026-09-23T09:58:38 IST" duration-ms="3430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:38 IST" name="setUp" finished-at="2026-09-23T09:58:39 IST" duration-ms="1454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMainPageButton()[pri:4, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:39 IST" name="testMainPageButton" finished-at="2026-09-23T09:58:39 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMainPageButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:iFrameDemo@9f116cc]" started-at="2026-09-23T09:58:39 IST" name="tearDown" finished-at="2026-09-23T09:58:41 IST" duration-ms="2457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- iFrameDemo -->
+    </test> <!-- Playwright -->
+  </suite> <!-- Default Suite -->
+</testng-results>
